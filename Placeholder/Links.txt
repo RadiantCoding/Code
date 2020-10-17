@@ -1,1 +1,2 @@
-
+https://wiki.tcl-lang.org/page/List+of+ttk+Themes
+https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/entry-validation.html
